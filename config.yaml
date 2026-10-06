@@ -1,4 +1,0 @@
-scoring_weights:
-  rating: 0.4          # Weight for product star rating (out of 5)
-  price_economy: 0.3   # Weight for how well it fits under budget
-  feature_match: 0.3   # Weight for matched user-preferred features
